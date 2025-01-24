@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Penktas_Kamera</string>
+        <string name="shortcut_take_photo_short_label">Take Photo</string>
+        <string name="shortcut_take_photo_long_label">Take a photo using the camera</string>
+</resources>

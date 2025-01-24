@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="take_photo"
+        android:enabled="true"
+        android:shortcutShortLabel="@string/shortcut_take_photo_short_label"
+        android:shortcutLongLabel="@string/shortcut_take_photo_long_label">
+        <intent
+            android:action="com.example.penktas_kamera.TAKE_PHOTO"
+            android:targetPackage="com.example.penktas_kamera" />
+    </shortcut>
+</shortcuts>
