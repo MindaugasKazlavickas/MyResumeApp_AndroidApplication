@@ -1,0 +1,1 @@
+The mobile Android application detects faces and creates additional visual elements based on the face landmark locations, adjusts their placement based on the face rotation and position. The application is done via post-processing asynchronously after taking the photo, it is immediately available for download via emailing yourself.
